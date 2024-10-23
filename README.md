@@ -23,6 +23,9 @@
     <li>Ads that had customer segment optimisation performed 19.47% better than ads without it.</li>
 </ul>
 
+<!-- Add the image reference for results -->
+<img src="images/results.png" alt="A/B Testing Results" style="width:100%; max-width:600px;">
+
 <h3 id="project-overview">Project Overview</h3>
 
 <p>This project aims to optimize marketing campaigns for a sportswear brand in the UK market. We analyze A/B testing results to understand the effectiveness of different ad strategies, including customer segmentation, ad formatting, and platform selection.</p>
@@ -46,6 +49,9 @@
     <li><strong>Emphasize Engaging Formats:</strong> Utilize video and interactive elements to capture user attention and drive conversions.</li>
     <li><strong>Consider Manual Platform Selection:</strong> Evaluate the benefits of manual placement for specific campaigns, particularly based on historical data.</li>
 </ul>
+
+<!-- Add the image reference for recommendations -->
+<img src="images/recom.png" alt="Recommendations" style="width:100%; max-width:600px;">
 
 <h3 id="contributing">Contributing</h3>
 
