@@ -14,6 +14,9 @@
     <li><a href="#license" target="_blank">License</a></li>
 </ul>
 
+<!-- Add the image reference for recommendations -->
+<img src="images/visualis.png" alt="Visualisation" style="width:100%; max-width:600px;">
+
 <h3 id="key-findings">Key Findings</h3>
 
 <ul>
