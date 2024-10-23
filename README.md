@@ -37,21 +37,6 @@
     <li><strong>Automatic Platform Placement:</strong> Analyzed the success rate of ads automatically placed by Meta vs. those manually placed by the advertiser.</li>
 </ol>
 
-<h3 id="ab-testing-results">A/B Testing Results</h3>
-
-<h4>Customer Segment Optimization</h4>
-<p>Group 1A Success Rate:   89.47%    (17/19)​
-Group 1B Success Rate:   70.00%    (175/250)​
-z-statistic: 1.8104​
-p-value: 0.0702​
-Confidence Level:  92.98%</p>
-
-<h4>Ad Formatting & Interactivity</h4>
-<p>Video and interactive ad formats lead to a significantly higher success rate compared to non-video, non-interactive ads.</p>
-
-<h4>Automatic Platform Placement</h4>
-<p>While manual platform placement might offer a slight advantage, the difference is not statistically significant.</p>
-
 <h3 id="recommendations">Recommendations</h3>
 
 <p>Based on the findings, we recommend the following actions:</p>
