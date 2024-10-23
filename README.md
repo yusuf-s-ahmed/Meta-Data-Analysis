@@ -42,14 +42,6 @@
 
 <h3 id="recommendations">Recommendations</h3>
 
-<p>Based on the findings, we recommend the following actions:</p>
-
-<ul>
-    <li><strong>Prioritize Targeted Marketing:</strong> Invest in audience research and refine targeting strategies to reach relevant demographics.</li>
-    <li><strong>Emphasize Engaging Formats:</strong> Utilize video and interactive elements to capture user attention and drive conversions.</li>
-    <li><strong>Consider Manual Platform Selection:</strong> Evaluate the benefits of manual placement for specific campaigns, particularly based on historical data.</li>
-</ul>
-
 <!-- Add the image reference for recommendations -->
 <img src="images/recom.png" alt="Recommendations" style="width:100%; max-width:600px;">
 
