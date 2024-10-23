@@ -1,6 +1,6 @@
 <h1>📊 A/B Testing Analysis on Meta's Ad Dataset: Sportswear Brand (UK Market)</h1>
 
-<p>This project analyzes A/B testing results to identify effective marketing strategies for a sportswear brand targeting the UK market. We explore the impact of customer segment optimization, ad formatting & interactivity, and automatic platform placement on ad success rates.</p>
+<p>This project analyses A/B testing results to identify effective marketing strategies for a sportswear brand targeting the UK market. We explore the impact of customer segment optimization, ad formatting & interactivity, and automatic platform placement on ad success rates.</p>
 
 <h2>Table of Contents</h2>
 
@@ -11,7 +11,7 @@
     <li><a href="#ab-testing-results" target="_blank">A/B Testing Results</a></li>
     <li><a href="#recommendations" target="_blank">Recommendations</a></li>
     <li><a href="#contributing" target="_blank">Contributing</a></li>
-    <li><a href="#license" target="_blank">License</a></li>
+    <li><a href="#license" target="_blank">Licence</a></li>
 </ul>
 
 <!-- Add the image reference for recommendations -->
@@ -31,16 +31,16 @@
 
 <h3 id="project-overview">Project Overview</h3>
 
-<p>This project aims to optimize marketing campaigns for a sportswear brand in the UK market. We analyze A/B testing results to understand the effectiveness of different ad strategies, including customer segmentation, ad formatting, and platform selection.</p>
+<p>This project aims to optimise marketing campaigns for a sportswear brand in the UK market. I analysed A/B testing results to understand the effectiveness of different ad strategies, including customer segmentation, ad formatting, and platform selection.</p>
 
 <h3 id="data-methodology">Data and Methodology</h3>
 
-<p>The analysis utilizes data from an A/B testing experiment conducted on a dataset of 67,085 advertisements. Three key tests were performed:</p>
+<p>The analysis utilises data from an A/B testing experiment conducted on a dataset of 67,085 advertisements. Three key tests were performed:</p>
 
 <ol>
-    <li><strong>Customer Segment Optimization:</strong> Compared ad performance based on targeting specific audience segments (interests, custom audiences, lookalikes) vs. a broader audience.</li>
+    <li><strong>Customer Segment Optimisation:</strong> Compared ad performance based on targeting specific audience segments (interests, custom audiences, lookalikes) vs. a broader audience.</li>
     <li><strong>Ad Formatting & Interactivity:</strong> Evaluated the effectiveness of video and interactive ads compared to non-video, non-interactive ads.</li>
-    <li><strong>Automatic Platform Placement:</strong> Analyzed the success rate of ads automatically placed by Meta vs. those manually placed by the advertiser.</li>
+    <li><strong>Automatic Platform Placement:</strong> Analysed the success rate of ads automatically placed by Meta vs. those manually placed by the advertiser.</li>
 </ol>
 
 <h3 id="recommendations">Recommendations</h3>
