@@ -1,4 +1,4 @@
-<h1>🧪 A/B Testing Analysis: Sportswear Brand (UK Market)</h1>
+<h1>📊 A/B Testing Analysis: Sportswear Brand (UK Market)</h1>
 
 <p>This project analyzes A/B testing results to identify effective marketing strategies for a sportswear brand targeting the UK market. We explore the impact of customer segment optimization, ad formatting & interactivity, and automatic platform placement on ad success rates.</p>
 
