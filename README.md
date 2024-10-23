@@ -40,7 +40,11 @@
 <h3 id="ab-testing-results">A/B Testing Results</h3>
 
 <h4>Customer Segment Optimization</h4>
-<p>Results show a statistically significant improvement in success rates for ads targeted towards specific customer segments.</p>
+<p>Group 1A Success Rate:   89.47%    (17/19)​
+Group 1B Success Rate:   70.00%    (175/250)​
+z-statistic: 1.8104​
+p-value: 0.0702​
+Confidence Level:  92.98%</p>
 
 <h4>Ad Formatting & Interactivity</h4>
 <p>Video and interactive ad formats lead to a significantly higher success rate compared to non-video, non-interactive ads.</p>
