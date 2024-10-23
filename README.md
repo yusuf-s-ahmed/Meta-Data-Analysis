@@ -17,9 +17,10 @@
 <h3 id="key-findings">Key Findings</h3>
 
 <ul>
-    <li>Targeted marketing strategies significantly improve ad performance.</li>
-    <li>Engaging ad formats like video and interactive elements lead to higher success rates.</li>
-    <li>Manual platform selection might offer slight advantages in certain cases.</li>
+    <li>Ads that were videos and interactive performed almost 50% better than those that were not.</li>
+    <li>Of the 42 ads studied that were videos and interactive, 100% of these successfully achieved their advert objectives.</li>
+    <li>Ads that were automatically posted on the best social media platforms by Meta performed 8.43% worse in achieving ad objectives</li>
+    <li>Ads that had customer segment optimisation performed 19.47% better than ads without it.</li>
 </ul>
 
 <h3 id="project-overview">Project Overview</h3>
