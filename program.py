@@ -45,15 +45,15 @@ print(f'Duplicate advert campaigns found: {duplicate_ads}')
 
 print("------------------------------------------------------------------")
 
-# ---- Customer Segment Optimization Test ----
-# Create Group A for customer segment optimization
+# ---- Customer Segment Optimisation Test ----
+# Create Group A for customer segment optimisation
 group_A_1 = data[
     (data['is_tgt_using_interests'] == True) & 
     (data['is_tgt_using_custom_audience_inclusion'] == True) & 
     (data['is_tgt_using_lookalikes'] == True)
 ].copy()
 
-# Create Group B for customer segment optimization
+# Create Group B for customer segment optimisation
 group_B_1 = data[
     ~(data['is_tgt_using_interests'] == True) & 
     ~(data['is_tgt_using_custom_audience_inclusion'] == True) & 
