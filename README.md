@@ -15,7 +15,7 @@
 </ul>
 
 <!-- Add the image reference for recommendations -->
-<img src="images/visualis.png" alt="Visualisation" style="width:100%; max-width:600px;">
+<img src="#/images/visualis.png" alt="Visualisation" style="width:100%; max-width:600px;">
 
 <h3 id="key-findings">Key Findings</h3>
 
@@ -46,7 +46,7 @@
 <h3 id="recommendations">Recommendations</h3>
 
 <!-- Add the image reference for recommendations -->
-<img src="images/recom.png" alt="Recommendations" style="width:100%; max-width:600px;">
+<img src="#/images/recom.png" alt="Recommendations" style="width:100%; max-width:600px;">
 
 <h3 id="contributing">Contributing</h3>
 
