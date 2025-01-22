@@ -26,8 +26,8 @@
     <li>Ads that had customer segment optimisation performed 19.47% better than ads without it.</li>
 </ul>
 
-<!-- Add the image reference for results -->
-<img src="images/results.png" alt="A/B Testing Results" style="width:100%; max-width:600px;">
+<!-- Add the image reference for results --> 
+<!-- <img src="images/results.png" alt="A/B Testing Results" style="width:100%; max-width:600px;">  -->
 
 <h3 id="project-overview">Project Overview</h3>
 
