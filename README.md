@@ -65,5 +65,4 @@ After cleaning and validating the dataset, I reduced the sample to 364 high-conf
 ## Impact
 
 This project taught me how to combine large-scale data analysis with A/B testing and visual storytelling to derive actionable insights for digital strategy. It enhanced my ability to work with mixed toolchains (Python, R, Excel), communicate findings through visual design, and use data to support marketing decisions.
-> [Access Final Presentation Deck (Figma Export)](#)
 
