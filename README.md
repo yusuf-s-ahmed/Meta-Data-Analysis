@@ -1,70 +1,71 @@
-<h1>📊 A/B Testing Analysis on Meta's Ad Dataset: Sportswear Brand (UK Market)</h1>
+# Analysing 78,085 Meta Ad Campaigns Using Python, R, and Excel
 
-<p>This project analyses A/B testing results to identify effective marketing strategies for a sportswear brand targeting the UK market. We explore the impact of customer segment optimization, ad formatting & interactivity, and automatic platform placement on ad success rates.</p>
+As part of Meta and Digdata's ‘Step Up Career Challenge’, I analysed 78,085 UK-targeted ads from 859 digital campaigns to uncover high-performing marketing strategies for a global sportswear brand. The goal was to evaluate ad effectiveness across customer segments, media formats, and platform placements.
 
-<h2>Table of Contents</h2>
+## Table of Contents
 
-<ul>
-    <li><a href="#key-findings" target="_blank">Key Findings</a></li>
-    <li><a href="#project-overview" target="_blank">Project Overview</a></li>
-    <li><a href="#data-methodology" target="_blank">Data and Methodology</a></li>
-    <li><a href="#ab-testing-results" target="_blank">A/B Testing Results</a></li>
-    <li><a href="#recommendations" target="_blank">Recommendations</a></li>
-    <li><a href="#contributing" target="_blank">Contributing</a></li>
-    <li><a href="#license" target="_blank">Licence</a></li>
-</ul>
+- [Overview](#overview)
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Implementation Details](#implementation-details)
+- [Key Insights](#key-insights)
+- [Challenges and Solutions](#challenges-and-solutions)
+- [Impact](#impact)
 
-<!-- Add the image reference for recommendations -->
-<img src="#/images/visualis.png" alt="Visualisation" style="width:100%; max-width:600px;">
+## Overview
 
-<h3 id="key-findings">Key Findings</h3>
+This project was completed as part of a national data challenge hosted by Meta and Digdata. The brief was to analyse large-scale advertising campaign data to identify trends, evaluate performance, and deliver data-backed marketing recommendations.
 
-<ul>
-    <li>Ads that were videos and interactive performed almost 50% better than those that were not.</li>
-    <li>Of the 42 ads studied that were videos and interactive, 100% of these successfully achieved their advert objectives.</li>
-    <li>Ads that were automatically posted on the best social media platforms by Meta performed 8.43% worse in achieving ad objectives</li>
-    <li>Ads that had customer segment optimisation performed 19.47% better than ads without it.</li>
-</ul>
+After cleaning and validating the dataset, I reduced the sample to 364 high-confidence campaigns. I applied A/B testing techniques in Python and R to analyse how different variables—like interactivity, ad format, and customer targeting—impacted campaign success.
 
-<!-- Add the image reference for results --> 
-<!-- <img src="images/results.png" alt="A/B Testing Results" style="width:100%; max-width:600px;">  -->
+## Features
 
-<h3 id="project-overview">Project Overview</h3>
+- Cleaned and processed a dataset of **78,085 ads** across **859 UK-based campaigns**.
+- Applied **A/B testing** to compare ad performance across variables like interactivity, format, and placement.
+- Defined campaign “success” as achieving at least five high-performing ads.
+- Conducted **audience segment** analysis to identify high-engagement customer profiles.
+- Visualised insights using Python and R libraries and designed the presentation deck in Figma and PowerPoint.
 
-<p>This project aims to optimise marketing campaigns for a sportswear brand in the UK market. I analysed A/B testing results to understand the effectiveness of different ad strategies, including customer segmentation, ad formatting, and platform selection.</p>
+## Technology Stack
 
-<h3 id="data-methodology">Data and Methodology</h3>
+| Component            | Tools and Libraries                       |
+|---------------------|--------------------------------------------|
+| Data Cleaning        | Python (pandas, NumPy), Excel              |
+| Statistical Testing  | Python, R (A/B testing, t-tests)           |
+| Visualisation        | matplotlib, seaborn, ggplot2, Figma        |
+| Presentation         | PowerPoint                                |
+| Version Control      | GitHub                                     |
 
-<p>The analysis utilises data from an A/B testing experiment conducted on a dataset of 67,085 advertisements. Three key tests were performed:</p>
+## Implementation Details
 
-<ol>
-    <li><strong>Customer Segment Optimisation:</strong> Compared ad performance based on targeting specific audience segments (interests, custom audiences, lookalikes) vs. a broader audience.</li>
-    <li><strong>Ad Formatting & Interactivity:</strong> Evaluated the effectiveness of video and interactive ads compared to non-video, non-interactive ads.</li>
-    <li><strong>Automatic Platform Placement:</strong> Analysed the success rate of ads automatically placed by Meta vs. those manually placed by the advertiser.</li>
-</ol>
+- **Data Cleaning:** Removed duplicates and incomplete entries, reducing the dataset from 859 campaigns to 364 usable ones.
+- **Segmentation & Testing:** Segmented ads by format, customer segment, and platform placement, applying statistical comparison methods to assess performance.
+- **A/B Testing Logic:** Used Python and R to evaluate how ad interactivity and placement strategies affected outcome metrics.
+- **Visualisation:** Built comparison plots in matplotlib, seaborn, and ggplot2, and embedded them into a Figma-designed PowerPoint deck.
+- **Presentation:** Highlighted key findings and recommendations in a deliverable designed to support executive marketing decisions.
 
-<h3 id="recommendations">Recommendations</h3>
+## Key Insights
 
-<!-- Add the image reference for recommendations -->
-<img src="#/images/recom.png" alt="Recommendations" style="width:100%; max-width:600px;">
+| Metric/Variable                  | Insight                                                       |
+|----------------------------------|----------------------------------------------------------------|
+| Interactive Video Ads            | 100% success rate across 42 ads                               |
+| Interactivity vs. Static         | Performed nearly 50% better                                   |
+| Auto vs. Manual Placement        | Manual placements outperformed auto by 8.43%                  |
+| Customer Segment Optimisation    | Improved performance by 19.47%                                |
 
-<h3 id="contributing">Contributing</h3>
+## Challenges and Solutions
 
-<p>If you would like to contribute to this project, please follow these steps:</p>
+| Challenge                         | Solution                                                       |
+|----------------------------------|----------------------------------------------------------------|
+| High data volume and redundancy  | Developed filtering scripts to reduce noise and drop duplicates |
+| Varying metric definitions       | Standardised “success” threshold across segments               |
+| Cross-tool visualisation         | Aligned Python (matplotlib/seaborn) with R (ggplot2) outputs   |
+| Communication clarity            | Summarised insights visually in Figma-based slide deck         |
 
-<ol>
-    <li>Fork the repository.</li>
-    <li>Create a new branch:</li>
-    <pre><code>git checkout -b feature/YourFeature</code></pre>
-    <li>Make your changes and commit them:</li>
-    <pre><code>git commit -m "Add some feature"</code></pre>
-    <li>Push to the branch:</li>
-    <pre><code>git push origin feature/YourFeature</code></pre>
-    <li>Open a pull request.</li>
-</ol>
+## Impact
 
-<h3 id="license">License</h3>
+This project taught me how to combine large-scale data analysis with A/B testing and visual storytelling to derive actionable insights for digital strategy. It enhanced my ability to work with mixed toolchains (Python, R, Excel), communicate findings through visual design, and use data to support marketing decisions.
 
-<p>This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank">LICENSE</a> file for details.</p>
+> [View GitHub Repository](#)  
+> [Access Final Presentation Deck (Figma Export)](#)
 
-<p>For any questions or issues, please open an issue on GitHub or contact the maintainer.</p>
