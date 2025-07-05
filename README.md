@@ -16,7 +16,7 @@ As part of Meta and Digdata's ‘Step Up Career Challenge’, I analysed 78,085 
 
 This project was completed as part of a national data challenge hosted by Meta and Digdata. The brief was to analyse large-scale advertising campaign data to identify trends, evaluate performance, and deliver data-backed marketing recommendations.
 
-After cleaning and validating the dataset, I reduced the sample to 364 high-confidence campaigns. I applied A/B testing techniques in Python and R to analyse how different variables—like interactivity, ad format, and customer targeting—impacted campaign success.
+After cleaning and validating the dataset, I reduced the sample to 364 high-confidence campaigns. I applied A/B testing techniques in Python and R to analyse how different variables, like interactivity, ad format, and customer targeting—impacted campaign success.
 
 ## Features
 
